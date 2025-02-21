@@ -1,0 +1,6 @@
+@MebershipApI_HostAddress = http://localhost:5148
+
+GET {{MebershipApI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
